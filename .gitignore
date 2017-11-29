@@ -1,0 +1,6 @@
+controllers/*
+middlewares/*
+routes/*
+generate.sh
+node_modules/
+package-lock.json
