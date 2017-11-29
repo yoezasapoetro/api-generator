@@ -1,12 +1,16 @@
 {
   "name": "route-ods",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "API Generator, Generate Controllers, Middlewares, Routes by Import Spreadsheet Data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/yoezasapoetro/api-generator.git"
+  },
+  "author": "yoezasapoetro",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
